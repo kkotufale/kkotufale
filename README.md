@@ -6,13 +6,13 @@ I’m interested in software engineering and how security can be built into appl
 
 ### What I’m building
 
-**[SecAuthAPI]
+**[SecAuthAPI] - (https://github.com/kkotufale/SecAuthAPI)** 
 
-(https://github.com/kkotufale/SecAuthAPI)** is my early-stage project working toward an AI-powered secure gateway and API. I’m starting with FastAPI, SQLAlchemy, SQLite, and authentication fundamentals. My longer-term goals include AI-assisted suspicious-activity detection, Docker containerization, and AWS deployment with least-privilege IAM permissions.
+is my early-stage project working toward an AI-powered secure gateway and API. I’m starting with FastAPI, SQLAlchemy, SQLite, and authentication fundamentals. My longer-term goals include AI-assisted suspicious-activity detection, Docker containerization, and AWS deployment with least-privilege IAM permissions.
 
-**[Learning Playground]
+**[Learning Playground] - (https://github.com/kkotufale/learning-playground)** 
 
-(https://github.com/kkotufale/learning-playground)** contains my Python coursework, worked examples, extra labs, and personal practice.
+contains my Python coursework, worked examples, extra labs, and personal practice.
 
 ### What I’m learning
 
